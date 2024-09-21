@@ -28,3 +28,4 @@ C:\gitfolder\project1\project2\obj\Debug\net8.0\refint\project2.dll
 C:\gitfolder\project1\project2\obj\Debug\net8.0\project2.pdb
 C:\gitfolder\project1\project2\obj\Debug\net8.0\project2.genruntimeconfig.cache
 C:\gitfolder\project1\project2\obj\Debug\net8.0\ref\project2.dll
+C:\gitfolder\project1\project2\obj\Debug\net8.0\project2.sourcelink.json
